@@ -1,0 +1,10 @@
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\bin\Debug\SQLDBprac1.dacpac
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\bin\Debug\SQLDBprac1.dll
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\bin\Debug\SQLDBprac1.pdb
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\obj\Debug\SQLDBprac1.sqlproj.AssemblyReference.cache
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\obj\Debug\Model.xml
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\obj\Debug\refactor.xml
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\obj\Debug\postdeploy.sql
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\obj\Debug\predeploy.sql
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\obj\Debug\SQLDBprac1.dll
+C:\Users\KEVIN\Desktop\Cuarto Semestre\Base de datos II\GIT\Prac1\SQLDBprac1\SQLDBprac1\obj\Debug\SQLDBprac1.pdb

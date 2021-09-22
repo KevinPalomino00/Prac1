@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[APODERARO]
 (
-	[Id] INT NOT NULL PRIMARY KEY, 
+	[id] INT NOT NULL PRIMARY KEY, 
     [Nombre] NVARCHAR(50) NOT NULL, 
     [Telefono] NVARCHAR(50) NOT NULL, 
     [id_Alumno] INT NOT NULL, 
